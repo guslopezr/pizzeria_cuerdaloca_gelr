@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:wght@300;400;500&family=Titillium+Web:wght@300;400;600&display=swap');
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: whitesmoke;
+    /*     background-image: linear-gradient(rgba(0, 0, 0, 0.471), rgba(0, 0, 0, 0.6)), url("./Assets/Imgs/background-menu.jpg");
+ */
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+code {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}

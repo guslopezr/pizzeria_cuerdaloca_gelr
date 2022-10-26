@@ -1,0 +1,46 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.banner-container {
+    position: static;
+    text-align: center;
+    width: auto;
+    height: 6rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.banner-text {
+    position: absolute;
+    width: 90;
+    color: rgb(23, 23, 23);
+}
+
+.banner-title {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    margin: 5px;
+    font-size: 150%;
+}
+
+.banner-title2 {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    margin: 5px;
+    font-size: 100%;
+}
+
+#redbanner {
+    width: 101%;
+    margin: auto;
+}

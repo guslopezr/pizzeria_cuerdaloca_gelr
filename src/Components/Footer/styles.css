@@ -1,0 +1,27 @@
+.footer-container {
+    height: 10rem;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-links a {
+    color: darkgrey;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.footer-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
